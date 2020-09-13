@@ -5,4 +5,4 @@
 - 💬 Ask me about anything related to coding, startups, video games, etc.
 - 📫 How to reach me:
   - Email: david.byttow@gmail.com
-  - Twitter: @davidbyttow
+  - Twitter: [@davidbyttow](https://twitter.com/davidbyttow)
