@@ -4,7 +4,6 @@
 
 - More:
   - Website: https://davidbyttow.com/
-  - Blog: https://www.alwaysbecoding.com/
 
 - 📫 How to reach me:
   - Email: david.byttow@gmail.com
