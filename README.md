@@ -1,7 +1,7 @@
 ### Hello 👋
 I'm an engineer by day, and an engineer by night. I manage teams and write code every day. #AlwaysBeCoding 🏴‍☠️
-- Current: Head of Engineering and Product at Sorare
-- Former: Game dev and previously Google, Square, Bridgewater, Secret, Snapchat
+- Current: Stealth
+- Former: Game dev and previously Google, Square, Bridgewater, Secret, Snapchat, Lyft, Sorare
 
 
 - 📫 How to reach me:
