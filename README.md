@@ -1,6 +1,6 @@
 ### Hello 👋
-I'm an engineer by day, and an engineer by night. I manage teams and write code every day. #AlwaysBeCoding 🏴‍☠️
-- Current: Stealth
+I lead teams and write code every day. 
+- Current: VP of Engineering at Oscar
 - Former: Game dev and previously Google, Square, Bridgewater, Secret, Snapchat, Lyft, Sorare
 
 
@@ -8,3 +8,5 @@ I'm an engineer by day, and an engineer by night. I manage teams and write code 
   - Website: https://davidbyttow.com/
   - Email: david.byttow@gmail.com
   - Twitter: [@davidbyttow](https://twitter.com/davidbyttow)
+
+#AlwaysBeCoding 🏴‍☠️
