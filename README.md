@@ -1,6 +1,6 @@
 ### Hello 👋
 I lead teams and write code every day. 
-- Current: VP of Engineering at Oscar
+- Current: SVP of Technology at Oscar
 - Former: Game dev and previously Google, Square, Bridgewater, Secret, Snapchat, Lyft, Sorare
 
 
